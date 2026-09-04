@@ -1,0 +1,6 @@
+{
+  "name": "Let'sAct",
+  "description": "Transform goals into simple, repeatable workflows and actionable systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
